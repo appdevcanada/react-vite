@@ -101,6 +101,10 @@
       "index.html"
     ]
   },
+  "src/components/Starships/Starships.css": {
+    "file": "assets/Starships.0ccc4cd1.css",
+    "src": "src/components/Starships/Starships.css"
+  },
   "src/components/Films/Films.css": {
     "file": "assets/Films.0ccc4cd1.css",
     "src": "src/components/Films/Films.css"
@@ -116,9 +120,5 @@
   "index.css": {
     "file": "assets/index.6750659a.css",
     "src": "index.css"
-  },
-  "src/components/Starships/Starships.css": {
-    "file": "assets/Starships.0ccc4cd1.css",
-    "src": "src/components/Starships/Starships.css"
   }
 }
