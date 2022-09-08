@@ -1,0 +1,124 @@
+{
+  "index.html": {
+    "file": "assets/index.992934b7.js",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/components/Films/Films.jsx",
+      "src/components/People/People.jsx",
+      "src/components/Planets/Planets.jsx",
+      "src/components/Starships/Starships.jsx"
+    ],
+    "css": [
+      "assets/index.6750659a.css"
+    ]
+  },
+  "src/components/Films/Films.jsx": {
+    "file": "assets/Films.0396bec4.js",
+    "src": "src/components/Films/Films.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "dynamicImports": [
+      "src/components/Film/Film.jsx"
+    ],
+    "css": [
+      "assets/Films.0ccc4cd1.css"
+    ]
+  },
+  "src/components/People/People.jsx": {
+    "file": "assets/People.9035b209.js",
+    "src": "src/components/People/People.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "dynamicImports": [
+      "src/components/Person/Person.jsx"
+    ],
+    "css": [
+      "assets/People.0ccc4cd1.css"
+    ]
+  },
+  "src/components/Planets/Planets.jsx": {
+    "file": "assets/Planets.325113fb.js",
+    "src": "src/components/Planets/Planets.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "dynamicImports": [
+      "src/components/Planet/Planet.jsx"
+    ],
+    "css": [
+      "assets/Planets.0ccc4cd1.css"
+    ]
+  },
+  "src/components/Starships/Starships.jsx": {
+    "file": "assets/Starships.662ad062.js",
+    "src": "src/components/Starships/Starships.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "dynamicImports": [
+      "src/components/Starship/Starship.jsx"
+    ],
+    "css": [
+      "assets/Starships.0ccc4cd1.css"
+    ]
+  },
+  "src/components/Film/Film.jsx": {
+    "file": "assets/Film.d07ab40e.js",
+    "src": "src/components/Film/Film.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "src/components/Person/Person.jsx": {
+    "file": "assets/Person.88ab9faa.js",
+    "src": "src/components/Person/Person.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "src/components/Planet/Planet.jsx": {
+    "file": "assets/Planet.0dfddae0.js",
+    "src": "src/components/Planet/Planet.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "src/components/Starship/Starship.jsx": {
+    "file": "assets/Starship.bb0ff9ab.js",
+    "src": "src/components/Starship/Starship.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "src/components/Films/Films.css": {
+    "file": "assets/Films.0ccc4cd1.css",
+    "src": "src/components/Films/Films.css"
+  },
+  "src/components/People/People.css": {
+    "file": "assets/People.0ccc4cd1.css",
+    "src": "src/components/People/People.css"
+  },
+  "src/components/Planets/Planets.css": {
+    "file": "assets/Planets.0ccc4cd1.css",
+    "src": "src/components/Planets/Planets.css"
+  },
+  "index.css": {
+    "file": "assets/index.6750659a.css",
+    "src": "index.css"
+  },
+  "src/components/Starships/Starships.css": {
+    "file": "assets/Starships.0ccc4cd1.css",
+    "src": "src/components/Starships/Starships.css"
+  }
+}
